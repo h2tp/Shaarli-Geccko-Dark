@@ -5,6 +5,8 @@ Un thème sombre et moderne pour [Shaarli](https://github.com/shaarli/Shaarli) (
 Basé sur le thème `default` de Shaarli : la structure HTML et le JavaScript sont inchangés, tout le style est
 dans une feuille dédiée, `css/dark.css`, chargée après les styles d'origine.
 
+![Aperçu du thème Shaarli Geccko Dark](screenshots/linklist.png)
+
 ## Points forts
 
 - Fond bleu nuit, panneaux gris-bleu, accent vert émeraude (`#34d399`)
